@@ -7,8 +7,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cyzxin&theme=radical&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Cyzxin&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Cyzxin&icon=5&color=9)](https://visitcount.itsvg.in)
